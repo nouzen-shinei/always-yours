@@ -8,6 +8,7 @@
 - Best viewed at mobile and desktop device both.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Follow me on insta for more interesting projects like this. [Insta](https://www.instagram.com/nouzen_shinei_)
+Follow me on insta for more interesting projects like this. [Follow](https://www.instagram.com/nouzen_shinei_)
 
-![preview img](/preview.jpg)(/preview2.jpg)
+![Preview image 1](/preview.png)
+![Preview image 2](/preview2.png)
