@@ -10,5 +10,5 @@
 
 Follow me on insta for more interesting projects like this. [Follow](https://www.instagram.com/nouzen_shinei_)
 
-![Preview image 1](/preview.png)
+![Preview image 1](/preview1.png)
 ![Preview image 2](/preview2.png)
